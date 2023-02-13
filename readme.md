@@ -11,3 +11,5 @@ GNU GPLv3
 * PyPDF2
 
   (install with python -m pip install PyPDF2)
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=toshydev&repo=bahnticket-parser&countColor=%237B1E7A)
